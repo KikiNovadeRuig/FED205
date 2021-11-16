@@ -36,24 +36,26 @@ Responsive (Wanneer er gemerkt wordt dat dit lukt wil ik graag beide aanpakken.)
 <summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Lois Jeans
+Lois Jeans:
 https://loisjeanstore.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage - Lois Jeans 
 <br><br>
-<img src="images/homepage/1.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/2.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/3.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/4.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/5.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/6.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/7.PNG" width="375px" alt="omschrijving van de pagina">
-<img src="images/homepage/8.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/homepage/1.PNG" width="375px" alt="Beginscherm, fullscreen slider.">
+<img src="images/homepage/2.PNG" width="375px" alt="Lois Latest, nieuwe producten.">
+<img src="images/homepage/3.PNG" width="375px" alt="Slider Woman & Men Store + fitguide informatie met button.">
+<img src="images/homepage/4.PNG" width="375px" alt="Afbeeldingen Lois Jeans.">
+<img src="images/homepage/5.PNG" width="375px" alt="Blogpost van Journal 17, Read more button.">
+<img src="images/homepage/6.PNG" width="375px" alt="As Seen on, Slider met personen die het merk dragen.">
+<img src="images/homepage/7.PNG" width="375px" alt="Follow us, Afbeeldingsgrid met sociale media post.">
+<img src="images/homepage/8.PNG" width="375px" alt="Footer menu.">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Women Productpage - See all - Lois Jeans  
+<br><br>
+<img src="images/productpage/1.PNG" width="375px" alt="omschrijving van de pagina">
+<img src="images/productpage/2.PNG" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
