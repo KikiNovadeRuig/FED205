@@ -40,7 +40,8 @@ Lois Jeans
 https://loisjeanstore.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage - Lois Jeans <br>
+Homepage - Lois Jeans 
+<br><br>
 <img src="images/homepage/1.PNG" width="375px" alt="omschrijving van de pagina">
 <img src="images/homepage/2.PNG" width="375px" alt="omschrijving van de pagina">
 <img src="images/homepage/3.PNG" width="375px" alt="omschrijving van de pagina">
