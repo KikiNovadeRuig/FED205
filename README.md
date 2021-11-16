@@ -13,7 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
 Kiki Nova de Ruig
@@ -33,14 +33,14 @@ Responsive (Wanneer er gemerkt wordt dat dit lukt wil ik graag beide aanpakken.)
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
 Lois Jeans
 https://loisjeanstore.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage - Lois Jeans 
+Homepage - Lois Jeans <br>
 <img src="images/homepage/1.PNG" width="375px" alt="omschrijving van de pagina">
 <img src="images/homepage/2.PNG" width="375px" alt="omschrijving van de pagina">
 <img src="images/homepage/3.PNG" width="375px" alt="omschrijving van de pagina">
