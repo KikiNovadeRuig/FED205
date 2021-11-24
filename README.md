@@ -70,10 +70,10 @@ Women Productpage - See all - Lois Jeans
 <img src="images/breakdownschets-loisjeanstore.jpg" width="375px" alt="breakdown van de hele pagina">
 
 ### Dynamisch deel (bijv menu): 
-<img src="images/breakdownschets-loisjeanstore.jpg" width="375px" alt="breakdown van het menu">
+<img src="images/menu-breakdownsheets.jpg" width="375px" alt="breakdown van het menu">
 
 ### Wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/breakdownschets-loisjeanstore.jpg" width="375px" alt="breakdown van het filter menu">
+<img src="images/filter-breakdownsheets.jpg" width="375px" alt="breakdown van het filter menu">
 
 </details>
 
