@@ -87,8 +87,8 @@ Women Productpage - See all - Lois Jeans
 <summary>Uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik ben lang bezig geweest met het uitvogelen van hoe ik de website het beste stuctuur kan brengen. 
+Met verschillende kleurvlakken probeer ik de website zo goed mogelijk vorm te geven. Helaas heb ik hier nog veel moeite mee. 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
@@ -103,10 +103,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Probeer een begin te maken met de tweede pagina 
+- Probeer de homepage nu echt af te ronden. 
 
 </details>
 
@@ -120,7 +118,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>Uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Bij dit voortgang gesprek was ik helaas niet aanwezig vanwege mijn migraine en koorts. 
 
 
 ### Agenda voor meeting
@@ -136,10 +134,7 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+N.v.t.
 
 </details>
 
@@ -155,28 +150,18 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Screenreader
+Tijdens de les van donderdag 9 december hebben wij verschillende testen gedaan. De screenreader was hier 1 van. 
+De website links worden goed opgelezen. En de headings ook. De website zou dus te volgen zijn als je blind/slecht zient bent. 
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Muis en toetsenboard. 
+Ook met de tabs en het toetsenboard kan je door de website geleid worden. Ondanks dat de website nog geoptimaliseert moet worden. 
+Hier kan dus alleen nog maar verbetering in komen.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Schrokaparaat.
+Dit was vooral een beleving voor mijzelf. De knoppen waren groot genoeg om op te kunnen klikken. Alleen het blijft lastig met deze aandoening om uberhaupt goed gebruik te maken van een toetsenboard of muis. 
 
 </details>
 
@@ -190,7 +175,13 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>Uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het is gelukt om een slider te plaatsen in mijn website. Helaas klopt er iets niet, waardoor de site buiten de marges valt. 
+Dit kost teveel tijd om momenteel op te lossen. Daarom heb ik besloten deze weg te halen en te kiezen voor eens standaar vaste header.
+Helaas, ik heb het geprobeert. Door dat er verschillende sections gebruikt werden in deze banner heb ik ervoor gekozen de site opnieuw over te schrijven. 
+In een nieuw document zodat de CSS van de andere onderdelen van de website weer kloppen. Het is namelijk een te grote puzzel om de slider weg te halen en de rest kloppend te krijgen. Hierbij kan ik ook beter gaan opletten naar de website responsive maken. 
+ 
+<img src="#" width="375px" alt="breakdown van de hele pagina">
+
 
 
 ### Agenda voor meeting
