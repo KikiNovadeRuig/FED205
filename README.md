@@ -90,16 +90,6 @@ Women Productpage - See all - Lois Jeans
 Ik ben lang bezig geweest met het uitvogelen van hoe ik de website het beste stuctuur kan brengen. 
 Met verschillende kleurvlakken probeer ik de website zo goed mogelijk vorm te geven. Helaas heb ik hier nog veel moeite mee. 
 
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
@@ -119,16 +109,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 Bij dit voortgang gesprek was ik helaas niet aanwezig vanwege mijn migraine en koorts. 
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -179,31 +159,12 @@ Het is gelukt om een slider te plaatsen in mijn website. Helaas klopt er iets ni
 Dit kost teveel tijd om momenteel op te lossen. Daarom heb ik besloten deze weg te halen en te kiezen voor eens standaar vaste header.
 Helaas, ik heb het geprobeert. Door dat er verschillende sections gebruikt werden in deze banner heb ik ervoor gekozen de site opnieuw over te schrijven. 
 In een nieuw document zodat de CSS van de andere onderdelen van de website weer kloppen. Het is namelijk een te grote puzzel om de slider weg te halen en de rest kloppend te krijgen. Hierbij kan ik ook beter gaan opletten naar de website responsive maken. 
- 
-<img src="#" width="375px" alt="breakdown van de hele pagina">
-
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+ N.v.t.
 </details>
-
 
 
 
