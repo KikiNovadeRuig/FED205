@@ -75,7 +75,7 @@ header > nav > li {
     padding: 10em;
 }
 
-header > section > button.ham {
+header > section > button.button {
   background-color: transparent;
   border: transparent;
 }
