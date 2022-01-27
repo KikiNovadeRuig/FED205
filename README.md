@@ -180,15 +180,15 @@ Vooral dit onderdeel:
 <img src="images/eind1" width="375px" alt="scrollmenu">
 
 Daarnaast heb ik geleerd om te gaan met Media queries.
-<img src="images/eind2" width="375px" alt="scrollmenu">
-<img src="images/eind3" width="375px" alt="scrollmenu">
-<img src="images/eind4" width="375px" alt="scrollmenu">
+<img src="images/eind2" width="375px" alt="footer1">
+<img src="images/eind3" width="375px" alt="footer2">
+<img src="images/eind4" width="375px" alt="code">
  
 ### Screenshot(s)
 
 Het eindresultaat:
-<img src="images/final" width="375px" alt="scrollmenu">
- <img src="images/final1" width="375px" alt="scrollmenu">
+<img src="images/final" width="375px" alt="final">
+ <img src="images/final1" width="375px" alt="final2">
 
 
 
@@ -205,8 +205,6 @@ Het eindresultaat:
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 
 </details>
