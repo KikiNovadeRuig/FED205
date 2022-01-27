@@ -175,11 +175,22 @@ In een nieuw document zodat de CSS van de andere onderdelen van de website weer 
 <summary>Uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had veel moeite met het coderen van de Lois Jeans website. De onderdelen van de website had ik soms wat onderschat.
+Vooral dit onderdeel:
+<img src="images/eind1" width="375px" alt="scrollmenu">
 
+Daarnaast heb ik geleerd om te gaan met Media queries.
+<img src="images/eind2" width="375px" alt="scrollmenu">
+<img src="images/eind3" width="375px" alt="scrollmenu">
+<img src="images/eind4" width="375px" alt="scrollmenu">
+ 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+Het eindresultaat:
+<img src="images/final" width="375px" alt="scrollmenu">
+ <img src="images/final1" width="375px" alt="scrollmenu">
+
+
 
 </details>
 
