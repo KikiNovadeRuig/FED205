@@ -1054,7 +1054,7 @@ main > section.asseenon2 {
 
 
 
-@media (min-width: 30em) { footer { flex-direction: row; } 
+@media (min-width: 40em) { footer { flex-direction: row; } 
 @media (min-width: 45em) { main > section.fitguide { display: flex; }
 @media (min-width: 30em) { main > section.asseenon { grid-template-columns: 1fr 1fr; }
 @media (min-width: 50em) { main > section.asseenon { grid-template-columns: 1fr 1fr 1fr; }
