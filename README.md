@@ -177,18 +177,18 @@ In een nieuw document zodat de CSS van de andere onderdelen van de website weer 
 ### Stand van zaken
 Ik had veel moeite met het coderen van de Lois Jeans website. De onderdelen van de website had ik soms wat onderschat.
 Vooral dit onderdeel:
-<img src="images/eind1" width="375px" alt="scrollmenu">
+<img src="images/eind1.jpeg" width="375px" alt="scrollmenu">
 
 Daarnaast heb ik geleerd om te gaan met Media queries.
-<img src="images/eind2" width="375px" alt="footer1">
-<img src="images/eind3" width="375px" alt="footer2">
-<img src="images/eind4" width="375px" alt="code">
+<img src="images/eind2.jpeg" width="375px" alt="footer1">
+<img src="images/eind3.jpeg" width="375px" alt="footer2">
+<img src="images/eind4.jpeg" width="375px" alt="code">
  
 ### Screenshot(s)
 
 Het eindresultaat:
-<img src="images/final" width="375px" alt="final">
- <img src="images/final1" width="375px" alt="final2">
+<img src="images/final.jpeg" width="375px" alt="final">
+ <img src="images/final1.jpeg" width="375px" alt="final2">
 
 
 
