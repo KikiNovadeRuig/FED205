@@ -409,9 +409,10 @@ main > section > article:nth-of-type(3) > p {
 
 main > section.shopnow {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
     grid-gap: 0;
-    grid-auto-flow: dense;
+    /* grid-auto-flow: dense; */
     overflow: hidden;
     margin-top: 5em;
     margin-left: -4em;
@@ -428,7 +429,7 @@ main > section.shopnow {
   }
 
   main > section.shopnow > article:nth-of-type(2) {
-    display: flex;
+    display: none;
     margin: 0;
     background-image: url(../images/men-women_0001_0001_Layer_0-min.jpeg);
     background-position: center center;
@@ -489,7 +490,7 @@ main > section.shopnow {
 /*fitguide*/
 
   main > section.fitguide {
-    display: flex;
+    display: none;
     margin: 5em;
     overflow: hidden;
   }
@@ -532,26 +533,6 @@ main > section.shopnow {
     margin: 0;
     width: 60%;
   }
-
-  /* main > section.fitguide > article:nth-of-type(2) > button { 
-  display: flex;
-  position: relative;
-  justify-content: center;
-  align-items: center;
-  padding: 0.5em;
-  font-family: 'Nunito Sans', sans-serif;
-  font-size: 1em;
-  font-weight: 300;
-  background-color: var(--standaard-zwart);
-  color: white;
-  text-decoration: none;
-  border: none;
-  border-radius: 0;
-  padding: 1em;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  width: 50%;
-  } */
 
   main > section.fitguide > article:nth-of-type(2) > img {
     display: flex;
@@ -639,7 +620,7 @@ main > section.shopnow {
 main > section.asseenon {
     display: grid;
     grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-area: auto;
     height: 37em;
     padding:0.5em;
@@ -858,9 +839,9 @@ main > section.insta > article:nth-of-type(6){
 
 footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: var(--standaard-zwart);
-    padding: 1.5em;
+    padding: 2em;
     overflow: hidden;
 }
 
@@ -892,6 +873,7 @@ footer > article > h3 {
     font-size: 1.3em;
     font-weight: bold;
     text-align: left;
+    margin-top: 1em;
     margin-bottom: 1em;
 }
 
@@ -916,45 +898,168 @@ footer > article > li > a {
 
 
 
-/* footer {
-    background-color: var(--standaard-zwart);
+/* As Seen on Page */
+
+
+main > section.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0em;
+  overflow: hidden;
+  margin: 1em;
+}
+
+main > section.heading > h1 {
+  font-size: 3.5em;
+  letter-spacing: 0;
+}
+
+main > section.heading > p {
+  margin-bottom: 2em;
+}
+
+
+main > section.asseenon2 {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+  grid-area: auto;
+  height: 37em;
+  padding:0.5em;
+  overflow: hidden;
+  }
+
+  main > section.asseenon2 > article:nth-of-type(1) {
+  grid-row-start: 1;
+  grid-column: 1;
+  grid-row-end: 2;
+  grid-column-end: 2;
+  background-image: url(../images/ason2.jpeg);
+  background-position: center center;
+  background-size: cover;
+  margin: 0.5em;
+  }
+
+
+  main > section.asseenon2 > article:nth-of-type(1) > h3 {
+      display: flex;
+      position: absolute;
+      font-family: var(--standaard-font);
+      font-size: 2em;
+      font-weight: 100;
+      color: #f6f4f0;
+      text-align: left;
+      letter-spacing: 0.1em;
+      top: 14.5em;
+      margin-left: 1em;
+    }
+
+  
+    main > section.asseenon2 > article:nth-of-type(1) > h4 {
+      display: flex;
+      position: absolute;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 1em;
+      font-weight: 300;
+      color: #f6f4f0;
+      margin: 4em;
+      margin-left: 2em;
+      text-align: left;
+      top: 28em;
+    }
+  
+  
+  /* artikel twee */
+  
+    main > section.asseenon2 > article:nth-of-type(2) {
+      grid-row-start: 1;
+      grid-column: 2;
+      grid-row-end: 2;
+      grid-column-end: 2;
+      background-image: url(../images/ason3.jpeg);
+      background-position: center center;
+      background-size: cover;
+      margin: 0.5em;
+  }
+
+  main > section.asseenon2 > article:nth-of-type(2) > h3 {
+      display: flex;
+      position: absolute;
+      font-family: var(--standaard-font);
+      font-size: 2em;
+      font-weight: 100;
+      color: #f6f4f0;
+      text-align: left;
+      letter-spacing: 0.1em;
+      top: 14.5em;
+      margin-left: 1em;
+    }
+
+  
+    main > section.asseenon2 > article:nth-of-type(2) > h4 {
+      display: flex;
+      position: absolute;
+      font-family: 'Nunito Sans', sans-serif;
+      font-size: 1em;
+      font-weight: 300;
+      color: #f6f4f0;
+      margin: 4em;
+      margin-left: 2em;
+      text-align: left;
+      top: 28em;
+    }
+  
+  /* artikel drie */
+  
+    main > section.asseenon2 > article:nth-of-type(3) {
+      grid-row-start: 1;
+      grid-column: 4;
+      grid-row-end: 4;
+      grid-column-end: 3;
+      background-image: url(../images/ason4.jpeg);
+      background-position: center center;
+      background-size: cover;
+      margin: 0.5em;
+  }
+
+  main > section.asseenon2 > article:nth-of-type(3) > h3 {
     display: flex;
-    flex-direction: column;
-    padding: 10%;
-    position: relative;
-    margin-top: 20px;
-}
+    position: absolute;
+    font-family: var(--standaard-font);
+    font-size: 2em;
+    font-weight: 100;
+    color: #f6f4f0;
+    text-align: left;
+    letter-spacing: 0.1em;
+    top: 14.5em;
+    margin-left: 1em;
+  }
 
-footer>article{
+
+  main > section.asseenon2 > article:nth-of-type(3) > h4 {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
-
-}
-
-footer>article>img{
-    width: 25px;
-    opacity: 50%;
-    margin: 5%;
-}
-
-footer>a{
-    text-decoration: none;
-    color: white;
-    opacity: 50%;
-    font-family:  var(--standaard-font);
-    font-size: 12px;
-    text-align: center;
-    padding: 3%;
-}
-
-footer input{
-    padding: 15px;
-    color: white;
-    opacity: 50%;
-    background-color:  var(--standaard-zwart);
-    border: white 1px solid;
-} */
+    position: absolute;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    color: #f6f4f0;
+    margin: 4em;
+    margin-left: 2em;
+    text-align: left;
+    top: 28em;
+  }
 
 
 
+
+@media (min-width: 30em) { footer { flex-direction: row; } 
+@media (min-width: 45em) { main > section.fitguide { display: flex; }
+@media (min-width: 30em) { main > section.asseenon { grid-template-columns: 1fr 1fr; }
+@media (min-width: 50em) { main > section.asseenon { grid-template-columns: 1fr 1fr 1fr; }
+@media (min-width: 30em) { main > section.asseenon2 { grid-template-columns: 1fr 1fr; }
+@media (min-width: 50em) { main > section.asseenon2 { grid-template-columns: 1fr 1fr 1fr; }
+
+@media (min-width: 30em) { main > section.shopnow { grid-template-columns: 1fr 1fr; }
+@media (min-width: 45em) { main > section.shopnow > article:nth-of-type(2) { display: flex; }
